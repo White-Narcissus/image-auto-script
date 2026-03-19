@@ -10,4 +10,8 @@ class ImageProcessor:
     def __init__(self):
         pass
     
+
 # What kind of features should we develop first?
+
+# Whether need a class associated with folder?
+
